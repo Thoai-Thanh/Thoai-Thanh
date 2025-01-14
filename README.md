@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Thoai-Thanh
-- 👀 I’m interested in Web development
+- 👀 I’m interested in Java development
 - 🌱 I’m currently learning Software engineering
 - 💞️ I’m looking to collaborate on GitHub
 - 📫 How to reach me infor
